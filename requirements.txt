@@ -1,0 +1,12 @@
+torch==1.10.1
+torchvision==0.11.2
+torchtext==0.6.0
+transformers==4.16.1
+visdom==0.1.8.9
+pycocotools==2.0.2
+numpy==1.18.2
+timm==0.4.5
+argparse==1.1
+easydict==1.9
+tqdm==4.53.0
+pynvml==8.0.4

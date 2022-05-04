@@ -15,7 +15,7 @@ weightDecay->5e-5
 attenDrop->0.0
 projDrop->0.1
 smoothing->0.1
-batchSize->4
+batchSize->32
 epochs->100
 seed->1
 GPUID->0
